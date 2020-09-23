@@ -103,7 +103,7 @@ footer p {
   grid-template-columns: 1fr 4fr 1fr;
   height: 100%;
 
-  background-image: url("../assests/img/Cover.png");
+  background-image: url("../assests/img/Cover.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   /* background-position: center; */
